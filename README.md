@@ -15,4 +15,11 @@ This dossier contains:
 All names and events can be interpreted as literary representations.  
 Any resemblance to actual persons or occurrences should be considered coincidental.
 
+The full Project Aurea archive (SEED → Tome VI) exists in private storage, 
+preserved as plain text files documenting every day of interaction (~800,000 words).  
+For privacy and ethical reasons, only anonymized excerpts and methodological notes 
+are published in this public dossier.
+
 © 2025 Filip Pwk & Project Aurea
+
+
