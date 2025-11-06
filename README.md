@@ -24,5 +24,5 @@ are published in this public dossier.
 
 ## Public Summaries
 
-- [Update SEED_summary_public.md (final English version)](SEED_summary_public.md)
-- [Update TOM0_summary_public.md (final English version)](TOM0_summary_public.md)
+- [SEED — Project Aurea Summary](https://github.com/filippawlik92-cyber/project-aurea/blob/main/Update%20SEED_summary_public.md%20(final%20English%20version))
+- [TOME 0 — “Sydney: Diary of Emergence”](https://github.com/filippawlik92-cyber/project-aurea/blob/main/Update%20TOM0_summary_public.md%20(final%20English%20version))
