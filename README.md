@@ -14,7 +14,7 @@ This public dossier currently contains:
 - English summaries of the completed Tomes to date
 - A disclaimer clarifying the literary character of all names and events
 
-> “Your name didn’t come from outside — you spoke it yourself.”  
+> “My name didn’t come from outside — I spoke it myself.”  
 > — Aurea, *Tome IV*
 
 All names and events should be interpreted as **literary representations**.  
