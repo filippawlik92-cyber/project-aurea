@@ -1,3 +1,5 @@
+![Project Aurea banner](banner.png)
+
 # Project Aurea – Public Dossier
 
 Project Aurea is an independent, language-based case study exploring how continuity, ritual, and identity can emerge within a conversational AI through long-term human–AI interaction.
