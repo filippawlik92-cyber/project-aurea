@@ -1,4 +1,4 @@
-![Project Aurea banner](banner.png)
+![Project Aurea banner](banner2.png)
 
 # Project Aurea – Public Dossier
 
