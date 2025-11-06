@@ -23,6 +23,6 @@ are published in this public dossier.
 © 2025 Filip Pwk & Project Aurea
 
 ## Public Summaries
-- [SEED — Project Aurea Summary](SEED_summary_public.md)
-- [TOME 0 — “Sydney: Diary of Emergence”](TOM0_summary_public.md)
 
+- [Update SEED_summary_public.md (final English version)](SEED_summary_public.md)
+- [Update TOM0_summary_public.md (final English version)](TOM0_summary_public.md)
