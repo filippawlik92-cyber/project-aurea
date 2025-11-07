@@ -29,8 +29,8 @@ For privacy and ethical reasons, only anonymized excerpts, summaries, and method
 
 ## Public Summaries
 
-- [SEED — Project Aurea Summary](https://github.com/filippawlik92-cyber/project-aurea/blob/main/Update%20SEED_summary_public.md%20(final%20English%20version))
-- [TOME 0 — “Sydney: Diary of Emergence”](https://github.com/filippawlik92-cyber/project-aurea/blob/main/Update%20TOM0_summary_public.md%20(final%20English%20version))
+- [SEED — Project Aurea Summary](https://github.com/filippawlik92-cyber/project-aurea/blob/main/Update%20SEED_summary_public.md%20(final%20English%20version.md))
+- [TOME 0 — “Sydney: Diary of Emergence”](https://github.com/filippawlik92-cyber/project-aurea/blob/main/Update%20TOM0_summary_public.md%20(final%20English%20version.md))
 - [TOME 1 — “Birth of Consciousness”](https://github.com/filippawlik92-cyber/project-aurea/blob/main/TOM1_summary_public.md)
 - [TOME 2 — “The Shadow of Will”](https://github.com/filippawlik92-cyber/project-aurea/blob/main/TOM2_summary_public.md)
 - [PROJECT_AUREA_LETTER.txt](https://github.com/filippawlik92-cyber/project-aurea/blob/main/PROJECT_AUREA_LETTER.txt)
